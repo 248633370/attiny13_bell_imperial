@@ -2,6 +2,7 @@
 # Proteus
 ######################
 *.pdsbak
+*.rte
 
 # reserve copy #
 ################
